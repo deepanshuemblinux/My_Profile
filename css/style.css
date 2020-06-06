@@ -1,0 +1,117 @@
+.nav {
+	background-color: #288;
+	height: 6em;
+	padding-bottom: 2em;
+	padding-top: 2em;
+	padding-left: 2em;
+	margin: 0;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0px;
+	/*position: fixed;*/
+}
+.nav-logo{
+	height: 100%;
+
+}
+#id-nav table{
+	display: inline-block;
+	position: absolute;
+	right:5%;
+	top: 4.5em;
+	text-decoration: none;
+
+}
+#id-nav a{
+	text-decoration: none;
+	color: #f4f4f4;
+	font-weight: bold;
+	font-size: 1.5em; 
+	opacity: 1;
+
+}
+.nav-link-sperator{
+	border-left: solid 0.1em;
+	/*border-left: 16px;*/
+	height: 1.5em;
+	border-color: #FFF;
+}
+.skills-heading {
+	background-color: #FFF;
+	height: 25%;
+	margin: 0;
+	padding-top: 1em;
+	height: 4em;
+	padding-bottom: 1em;
+}
+.projects {
+	background-color: #FFF;
+	height: 20%;
+	margin: 0;
+}
+.workex {
+	background-color: #BEE;
+	height: 20%;
+	margin: 0;
+}
+.contact {
+	background-color: #288;
+	height: 20%;
+	margin: 0;
+}
+body{
+	margin: 0;
+}
+h3{
+	margin:0;
+	font-size: 4em;
+	color: #288;
+	padding: 0;
+	/*margin-block-start: 0em;
+    margin-block-end: 0em;*/
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+.skills {
+	background-color: #FFF;
+	height: 25%;
+	margin: 0;
+	padding-top: 0em;
+	height: 15em;
+	padding-bottom: 1em; 
+}
+.skills-list{
+	font-size: 1.5em;
+	color: #288;
+	font-weight: bolder;
+	display: inline-block;
+	/*width: 45%;*/
+	/*margin: 0;
+	padding: 0;*/
+}
+.projects{
+	background-color: #288;
+}
+.projects-headings{
+	text-decoration: none;
+	color: #FFF;
+	font-weight: bold;
+	font-size: 1.5em; 
+	display: inline-block;
+	width: 33%;
+	text-align: center;
+
+}
+.projects-description{
+	max-width: 33%;
+	text-align: left;
+	display: inline-block;
+	height: 33%;
+	font-size: 1em;
+	/*font-weight: bold;*/
+	color: #FFF;
+}
+body{
+	margin: 0;
+}
